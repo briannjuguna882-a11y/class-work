@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic Conversion</title>
+</head>
+
+<body>
+
+    <header>
+        <a href="index.html">My Site</a>
+
+        <nav aria-label="Main">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h1>Welcome to My Site</h1>
+
+            <p>This is my first paragraph...</p>
+
+            <p>This is my second paragraph...</p>
+        </article>
+
+        <aside>
+            <h2>Recent Posts</h2>
+
+            <ul>
+                <li><a href="#">Post One</a></li>
+                <li><a href="#">Post Two</a></li>
+            </ul>
+        </aside>
+    </main>
+
+    <footer>
+        <small>© 2026</small>
+    </footer>
+
+</body>
+
+</html>
